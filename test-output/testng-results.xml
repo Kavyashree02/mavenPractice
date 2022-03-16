@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-15T13:03:42 IST" name="Default suite" finished-at="2022-03-15T13:03:42 IST" duration-ms="75">
+  <suite started-at="2022-03-16T11:38:50 IST" name="Default suite" finished-at="2022-03-16T11:38:50 IST" duration-ms="94">
     <groups>
     </groups>
-    <test started-at="2022-03-15T13:03:42 IST" name="Default test" finished-at="2022-03-15T13:03:42 IST" duration-ms="75">
-      <class name="organizationTests.ReadDataTest">
-        <test-method signature="readData()[pri:0, instance:organizationTests.ReadDataTest@2cd2a21f]" started-at="2022-03-15T13:03:42 IST" name="readData" finished-at="2022-03-15T13:03:42 IST" duration-ms="13" status="PASS">
+    <test started-at="2022-03-16T11:38:50 IST" name="Default test" finished-at="2022-03-16T11:38:50 IST" duration-ms="94">
+      <class name="organizationTests.ReadDataTest1">
+        <test-method signature="readData()[pri:0, instance:organizationTests.ReadDataTest1@59af0466]" started-at="2022-03-16T11:38:50 IST" name="readData" finished-at="2022-03-16T11:38:50 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readData -->
-      </class> <!-- organizationTests.ReadDataTest -->
+      </class> <!-- organizationTests.ReadDataTest1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

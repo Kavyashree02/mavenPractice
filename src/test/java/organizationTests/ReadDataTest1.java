@@ -2,10 +2,11 @@ package organizationTests;
 
 import org.testng.annotations.Test;
 
-public class ReadDataTest {
-	
+public class ReadDataTest1 {
+
 	@Test
 	public void readData()
+	
 	{
 		String BROWSER = System.getProperty("browser");
 		System.out.println(BROWSER);
@@ -13,11 +14,9 @@ public class ReadDataTest {
 		System.out.println(URL);
 		String USERNAME = System.getProperty("username");
 		System.out.println(USERNAME);
+		
+		
 			
-		
-		
-		
-		
 	}
 
 }
